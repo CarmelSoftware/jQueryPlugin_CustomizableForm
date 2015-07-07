@@ -16,3 +16,6 @@ This jQuery Plugin will be used at the HTML5 file this way:
 <img alt="Custom jQuery Plugin to display a Form using Twitter Bootstrap       1 " border="0" src="http://4.bp.blogspot.com/-Ivul7_Zl_Lo/VUiMzgko_OI/AAAAAAAAKd0/xJLfexKM9Vw/s400/17.png" height="186" width="400" />
 
 
+<div style="direction: rtl;">
+פיתוח: כרמל שוורצמן</div>
+
